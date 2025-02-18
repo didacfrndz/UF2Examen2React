@@ -20,7 +20,7 @@ function App() {
                   <Link className="nav-link" to="/">Juego</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/intrucciones">Instrucciones</Link>
+                  <Link className="nav-link" to="/instrucciones">Instrucciones</Link>
                 </li>
               </ul>
             </div>
