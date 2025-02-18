@@ -28,7 +28,7 @@ function App() {
         </nav>
         <Routes>
           <Route path="/" element={<VistaJuego />} />
-          <Route path="/about" element={<VistaInstrucciones />} />
+          <Route path="/instrucciones" element={<VistaInstrucciones />} />
         </Routes>
       </Router>
     </>
